@@ -46,4 +46,19 @@ header ul li{
 header ul li a{
     display:inline-block;
     color:var(--pure);
+    font-weight:400;
+    margin-left:40px;
+    text-decoration: none;
+}
+.content{
+    position:relative;
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+
+.content.textbox{
+    
 }
