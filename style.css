@@ -233,6 +233,9 @@ text-transform:uppercase;
     .content .imgbox img{
         max-width:150px;
     }
+    .thumb li img{
+        max-width:30px;
+    }
     .social{
         position:absolute;
         top:50%;
@@ -244,4 +247,6 @@ text-transform:uppercase;
         align-items:center;
         
     }
+    
+   
 }
